@@ -1,2 +1,3 @@
 # my_first_repo
-mi primer repo
+This is a change on my README
+
